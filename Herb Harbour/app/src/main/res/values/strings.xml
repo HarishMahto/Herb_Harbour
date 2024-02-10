@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Herb Harbour</string>
+    <string name="play">Play</string>
+    <string name="confirm">Confirm</string>
+    <string name="scores">Scores</string>
+
+</resources>
