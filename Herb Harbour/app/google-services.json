@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "860716801369",
+    "firebase_url": "https://green-harbour-default-rtdb.firebaseio.com",
+    "project_id": "green-harbour",
+    "storage_bucket": "green-harbour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860716801369:android:2bd433454297d818af8048",
+        "android_client_info": {
+          "package_name": "harish.projects.greenharbour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860716801369-uqsrulsaqpbmmk4hdmlgru67njabai1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw2g3bMSGlSU_L-S5v4FemJxWCifUbDzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860716801369-uqsrulsaqpbmmk4hdmlgru67njabai1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
